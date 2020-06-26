@@ -1,0 +1,82 @@
+[
+  {
+    "letter": "B",
+    "terms": [
+      {
+        "title": "Bidón",
+        "desciption": "es un recipiente para líquidos, de tamaño grande y por lo general es de metal. Tiene una forma cilíndrica y posee un cierre hermético, el cual es usado para transportar líquidos."
+      }
+    ]
+  },
+  {
+    "letter": "C",
+    "terms": [
+      {
+        "title": "Contenedor",
+        "desciption": "es un recipiente de carga en el transporte fluvial o marítimo, terrestre y multimodal."
+      }     
+    ]
+  }, 
+  {
+    "letter": "E",
+    "terms": [
+      {
+        "title": "Esterilización",
+        "desciption": "es el proceso que destruye en los alimentos todas las formas de vida de microorganismos patógenos o no patógenos, a temperaturas altas."
+      }   
+    ]
+  },
+  {
+    "letter": "L",
+    "terms": [
+      {
+        "title": "Logística",
+        "desciption": "es un conjunto de medios que permite a la empresa planificar y gestionar los procesos de producción, distribución, transporte y almacenaje."
+      }     
+    ]
+  },
+  {
+    "letter": "M",
+    "terms": [
+      {
+        "title": "Marketing",
+        "desciption": "es una estrategia de la empresa para satisfacer al cliente y comercializar los productos."
+      },
+      {
+        "title": "Multimodal",
+        "desciption": "articulación entre diferentes modos de transporte, a fin de realizar más rápida y eficazmente las operaciones de trasbordo de materiales y mercancías."
+      }
+    ]
+  },
+  {
+    "letter": "P",
+    "terms": [
+      {
+        "title": "Pasteurización",
+        "desciption": "es un proceso térmico que es realizado en líquidos (generalmente alimentos), con la intención de reducir la presencia de agentes patógenos como hongos, bacterias, mohos, levaduras, etc."
+      },
+      {
+        "title": "Perecedero",
+        "desciption": "es un alimento que inicia su descomposición de manera rápida por la acción de los agentes ambientales."
+      }    
+    ]
+  },
+  {
+    "letter": "R",
+    "terms": [
+      {
+        "title": "Reciclar",
+        "desciption": "es someter materiales desechados a un proceso de transformación o aprovechamiento para que puedan ser nuevamente utilizados."
+      }
+    ]
+  },
+  {
+    "letter": "T",
+    "terms": [
+      {
+        "title": "Termoestable",
+        "desciption": "que no funde, ni se deforma en presencia de altas temperaturas o calor, por lo que no son reciclables."
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+.header-step {
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+}
+
+.header-step-number {
+    flex-basis: 36px;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-right: 1em;
+    color: $brand-color-dark;
+}
+
+.header-step-title {
+    font-weight: 700;
+    font-size: 1.5rem;
+    flex: 1 1 auto;
+
+    &--sm {
+        font-size: 1rem;
+    }
+}
