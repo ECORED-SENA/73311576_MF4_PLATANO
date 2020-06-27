@@ -48,5 +48,11 @@
     "slug": "almacenamiento",
     "title": "3. Almacenamiento",
     "path": "pages/tema-3.html"
-  }
+  },        
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  }    
 ]
